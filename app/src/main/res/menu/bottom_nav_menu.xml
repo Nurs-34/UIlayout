@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/car"
+        android:title="car"
+        android:icon="@drawable/ic_car_compact"/>
+    <item
+        android:id="@+id/profit"
+        android:title="profit"
+        android:icon="@drawable/ic_profit_grey"/>
+    <item
+        android:id="@+id/home"
+        android:title="home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/settings"
+        android:title="settings"
+        android:icon="@drawable/ic_repair"/>
+    <item
+        android:id="@+id/kebab"
+        android:title="kebab"
+        android:icon="@drawable/ic_kebab"/>
+</menu>

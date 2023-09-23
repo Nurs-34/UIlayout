@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UIlayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello">Добрый день, Алексей!</string>
+    <string name="bonus">У вас на счету 2000 бонусов</string>
+    <string name="all_auto">Все Авто</string>
+    <string name="my_auto">Мои авто</string>
+    <string name="car_model">C 065 MK 77</string>
+    <string name="mercedes_benz">Mercedes-Benz</string>
+    <string name="km">54 000 km</string>
+    <string name="statistics">Статистика</string>
+    <string name="mile">Пробег</string>
+    <string name="_156_500_km">156 500 km</string>
+    <string name="create_event">СОЗДАТЬ СОБЫТИЕ</string>
+    <string name="repair">ЗАПИСЬ НА ТО</string>
+</resources>
